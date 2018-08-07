@@ -1,19 +1,23 @@
+# FLAKE XMRig for FlakeChain v8 HardFork
+
+:warning: **This is FlakeChain Experimantal XMRig Miner for v8 HardFork Research and Development may NOT be suitable for other currencies mining** :warning:
+
+[![Github All Releases](https://img.shields.io/github/downloads/flakechain/flake-xmrig/total.svg)](https://github.com/flakechain/flake-xmrig/releases)
+[![GitHub release](https://img.shields.io/github/release/flakechain/flake-xmrig/all.svg)](https://github.com/flakechain/xmrig/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/flakechain/flake-xmrig.svg)](https://github.com/xmrig/xmrig/releases)
+[![GitHub license](https://img.shields.io/github/license/flakechain/flake-xmrig.svg)](https://github.com/xmrig/xmrig/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/flakechain/flake-xmrig.svg)](https://github.com/xmrig/xmrig/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/flakechain/flake-xmrig.svg)](https://github.com/xmrig/xmrig/network)
+[![GitHub forks](https://img.shields.io/github/forks/flakechain/flake-xmrig.svg)](https://github.com/xmrig/xmrig/network)
+
+# KECCAK3200
+
+This fork introducting KECCAK3200 with increased rounds for classic KECCAK to stop asic mining and prevent DoS attack caused by it.
+
 # XMRig
-
-:warning: **If you mine Monero, Aeon, Sumokoin, Turtlecoin, Stellite, GRAFT, Haven Protocol, IPBC, [PLEASE READ](https://github.com/xmrig/xmrig/issues/482)!** :warning:
-
-[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
-[![GitHub release](https://img.shields.io/github/release/xmrig/xmrig/all.svg)](https://github.com/xmrig/xmrig/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/releases)
-[![GitHub license](https://img.shields.io/github/license/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/network)
 
 XMRig is a high performance Monero (XMR) CPU miner, with official support for Windows.
 Originally based on cpuminer-multi with heavy optimizations/rewrites and removing a lot of legacy code, since version 1.0.0 completely rewritten from scratch on C++.
-
-* This is the **CPU-mining** version, there is also a [NVIDIA GPU version](https://github.com/xmrig/xmrig-nvidia) and [AMD GPU version]( https://github.com/xmrig/xmrig-amd).
-* [Roadmap](https://github.com/xmrig/xmrig/issues/106) for next releases.
 
 <img src="http://i.imgur.com/OKZRVDh.png" width="619" >
 
